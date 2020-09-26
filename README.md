@@ -1,4 +1,4 @@
-# AETG Algorithm
+# AETG Algorithm (2-Way Coverage)
 
 ## Description
 
